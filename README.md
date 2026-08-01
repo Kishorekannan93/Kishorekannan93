@@ -5,14 +5,14 @@
 <br/>
 
 <h3 align="center">Building scalable backend systems and full stack products with Java, Spring Boot &amp; React</h3>
-<p align="center"><i>8+ months of professional experience turning business problems into working software</i></p>
+<p align="center"><i>10+ months of professional experience turning business problems into working software</i></p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-0F172A?style=for-the-badge&labelColor=1E1B4B&color=6366F1"/>
-<img src="https://img.shields.io/badge/💼_8%2B_Months_Experience-0F172A?style=for-the-badge&labelColor=1E1B4B&color=14B8A6"/>
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-0F172A?style=for-the-badge&labelColor=1E1B4B&color=22C55E"/>
-<img src="https://img.shields.io/badge/🎯_Fresher_–_2_Yrs_Roles-0F172A?style=for-the-badge&labelColor=1E1B4B&color=F97316"/>
+<img src="https://img.shields.io/badge/_Tamil_Nadu,_India-0F172A?style=for-the-badge&labelColor=1E1B4B&color=6366F1"/>
+<img src="https://img.shields.io/badge/_8%2B_Months_Experience-0F172A?style=for-the-badge&labelColor=1E1B4B&color=14B8A6"/>
+<img src="https://img.shields.io/badge/_Open_to_Work-0F172A?style=for-the-badge&labelColor=1E1B4B&color=22C55E"/>
+<img src="https://img.shields.io/badge/_Fresher_–_2_Yrs_Roles-0F172A?style=for-the-badge&labelColor=1E1B4B&color=F97316"/>
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 <a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:kishorekannan934@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="[YOUR_PORTFOLIO_URL](https://kishorekannan93.github.io/portfolio./)"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
@@ -123,13 +123,13 @@ To Opportunities
 <tr>
 <td width="50%" valign="top">
 
-**🧱 Backend-first thinking**
+** Backend-first thinking**
 I design APIs and data models before I write UI — clean contracts between frontend and backend save rework later.
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Measurable impact**
+** Measurable impact**
 Every project I've shipped has a number attached — 25% faster APIs, 35% less manual effort, 30–40% better query performance.
 
 </td>
@@ -137,7 +137,7 @@ Every project I've shipped has a number attached — 25% faster APIs, 35% less m
 <tr>
 <td width="50%" valign="top">
 
-**🤝 Client-facing communication**
+** Client-facing communication**
 I've gathered requirements directly from clients — both at DVein and on freelance projects — and translated vague asks into shipped features.
 
 </td>
@@ -151,13 +151,13 @@ I write JUnit tests and participate in code reviews as standard practice, not an
 <tr>
 <td width="50%" valign="top">
 
-**🚀 End-to-end ownership**
+** End-to-end ownership**
 From database schema to AWS deployment to CI/CD — I've taken projects from idea to a live, working URL on my own.
 
 </td>
 <td width="50%" valign="top">
 
-**📚 Fast learner**
+** Fast learner**
 Picked up React Native, AWS deployment, and AI API integration on the job within my first 8 months — comfortable learning new tools under real deadlines.
 
 </td>
@@ -398,7 +398,7 @@ Alongside my full-time role, I've delivered freelance websites end-to-end for sm
 <tr>
 <td width="33%" valign="top">
 
-### 🌸 Florist Website
+###  Florist Website
 **Client:** Bouquet Shop
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -412,7 +412,7 @@ Alongside my full-time role, I've delivered freelance websites end-to-end for sm
 </td>
 <td width="33%" valign="top">
 
-### 🌶️ Spicy Hut
+###  Spicy Hut
 **Client:** Restaurant
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -426,7 +426,7 @@ Alongside my full-time role, I've delivered freelance websites end-to-end for sm
 </td>
 <td width="33%" valign="top">
 
-### 🎂 Cakes & Bakes
+###  Cakes & Bakes
 **Client:** Bakery
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -453,7 +453,7 @@ Alongside my full-time role, I've delivered freelance websites end-to-end for sm
 <tr>
 <td width="100%">
 
-### 🤖 AI Job Application Assistant
+###  AI Job Application Assistant
 
 An AI-powered mobile application that automates recruiter email generation based on resume and job details.
 
@@ -493,7 +493,7 @@ An AI-powered mobile application that automates recruiter email generation based
 <tr>
 <td width="100%">
 
-### 📸 Winstagram
+###  Winstagram
 
 A full stack social media platform with 20+ REST APIs — inspired by modern photo-sharing apps.
 
@@ -533,7 +533,7 @@ A full stack social media platform with 20+ REST APIs — inspired by modern pho
 <tr>
 <td width="50%" valign="top">
 
-### 📚 TutorApp
+###  TutorApp
 
 A Java-based CRUD application for managing course registrations.
 
@@ -558,7 +558,7 @@ A Java-based CRUD application for managing course registrations.
 </td>
 <td width="50%" valign="top">
 
-### 🐦 X Clone
+###  X Clone
 
 A learning project replicating core features of X (Twitter).
 
@@ -605,25 +605,25 @@ I treat learning as an ongoing part of the job, not something that stopped at gr
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ System Design & Microservices**
+** System Design & Microservices**
 Studying how to break monolithic Spring Boot apps into independently deployable services, and when *not* to — understanding trade-offs around latency, data consistency, and operational overhead.
 
-**🐳 Docker & Containerization**
+** Docker & Containerization**
 Practicing containerizing my Spring Boot + React projects so they run identically in dev and production, instead of relying on "works on my machine."
 
-**☁️ AWS Beyond EC2/S3**
+** AWS Beyond EC2/S3**
 Going deeper into IAM, VPC basics, and RDS — moving from "can deploy an app" to "can reason about a secure, cost-aware AWS setup."
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ Redis Caching**
+** Redis Caching**
 Learning where caching actually helps — session storage, rate limiting, and reducing repeated DB hits on read-heavy endpoints.
 
-**🔄 CI/CD Maturity**
+** CI/CD Maturity**
 Extending GitHub Actions pipelines beyond build-and-deploy to include automated test runs and environment-specific configs.
 
-**🧮 Data Structures & Algorithms**
+** Data Structures & Algorithms**
 Regular DSA practice covering arrays, strings, hashing, and recursion — building the problem-solving muscle that shows up in interviews and in gnarly production bugs alike.
 
 </td>
@@ -738,7 +738,7 @@ I'm actively looking for **Software Engineer / Java Full Stack Developer** roles
 <a href="https://linkedin.com/in/kishore-kannan-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="[YOUR_PORTFOLIO_URL](https://kishorekannan93.github.io/portfolio./)"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Download_Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
@@ -749,6 +749,6 @@ I'm actively looking for **Software Engineer / Java Full Stack Developer** roles
 
 <div align="center">
 
-**⭐ Thanks for visiting my profile — let's build something great together!**
+** Thanks for visiting my profile — let's build something great together!**
 
 </div>
