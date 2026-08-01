@@ -16,12 +16,25 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/kishore-kannan-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:kishorekannan934@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="[YOUR_PORTFOLIO_URL](https://kishorekannan93.github.io/portfolio./)"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kishore-kannan-h/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+
+<a href="https://github.com/Kishorekannan93" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+
+<a href="mailto:kishorekannan934@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+
+<a href="https://kishorekannan93.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>&nbsp;
+
+<a href="YOUR_RESUME_DIRECT_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
 
 </div>
 
@@ -734,12 +747,25 @@ I'm actively looking for **Software Engineer / Java Full Stack Developer** roles
 
 <br/><br/>
 
-<a href="mailto:kishorekannan934@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/kishore-kannan-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="[YOUR_PORTFOLIO_URL](https://kishorekannan93.github.io/portfolio./)"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Download_Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kishore-kannan-h/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+
+<a href="https://github.com/Kishorekannan93" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+
+<a href="mailto:kishorekannan934@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+
+<a href="https://kishorekannan93.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>&nbsp;
+
+<a href="YOUR_RESUME_DIRECT_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
 
 </div>
 
