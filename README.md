@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
 
-<a href="YOUR_RESUME_DIRECT_LINK" target="_blank">
+<a href="https://github.com/Kishorekannan93/Kishorekannan93/raw/main/Kishore_Kannan_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
@@ -763,7 +763,7 @@ I'm actively looking for **Software Engineer / Java Full Stack Developer** roles
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
 
-<a href="YOUR_RESUME_DIRECT_LINK" target="_blank">
+<a href="https://github.com/Kishorekannan93/Kishorekannan93/raw/main/Kishore_Kannan_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-F97316?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
