@@ -80,31 +80,7 @@ Software Engineer | Java Full Stack Developer
 
 <img height="30" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
----
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kishorekannan93&theme=tokyonight&show_icons=true&hide_border=true)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=Kishorekannan93&theme=tokyonight&hide_border=true)
-
----
-
-# 📊 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorekannan93&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-[![Kishore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishorekannan93&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 # 🚀 Featured Projects
 
