@@ -16,15 +16,12 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kishore-kannan-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:kishorekannan934@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-9245798766-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kishorekannan93&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -48,14 +45,13 @@
 
 - [🧩 Freelance Experience](#-freelance-experience)
 - [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🏆 Trophies & Streaks](#-trophies--streaks)
+- [🧑‍💻 Coding Profiles](#-coding-profiles)
+- [📈 Achievements](#-achievements)
 
 </td>
 <td width="33%">
 
-- [🧑‍💻 Coding Profiles](#-coding-profiles)
-- [📈 Achievements](#-achievements)
+- [🎓 Education](#-education)
 - [🤝 Let's Connect](#-lets-connect)
 - [💬 Random Dev Quote](#-random-dev-quote)
 
@@ -69,42 +65,45 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-```java
-public class Kishore extends Developer {
+I'm a **Software Engineer** with **8+ months of professional experience** building scalable backend systems and full stack applications at **DVein Innovations Pvt. Ltd.** I specialize in **Java, Spring Boot, REST APIs, React.js, React Native, and Node.js**, and I love turning real-world problems into working software — not just tutorial-style projects.
 
-    private String name        = "Kishore Kannan";
-    private String role        = "Software Engineer | Java Full Stack Developer";
-    private String location    = "Tamil Nadu, India";
-    private String experience  = "8+ Months Professional Experience";
-    private String company     = "DVein Innovations Pvt. Ltd.";
+My work spans **enterprise business applications, AI-powered tools, and freelance client websites**. I've shipped HRM modules used by real businesses, built and deployed AI-integrated products end-to-end, and I'm constantly leveling up my knowledge of **system design, microservices, and cloud-native engineering**.
 
-    private String[] currentFocus = {
-        "System Design",
-        "Microservices Architecture",
-        "Docker & Containerization",
-        "AWS Cloud Services",
-        "Redis Caching",
-        "CI/CD Pipelines"
-    };
+Outside of core development, I actively write **JUnit test cases**, take part in **code reviews**, and work directly with clients to translate business requirements into clean technical solutions.
 
-    private String[] passion = {
-        "Building scalable backend systems",
-        "Full stack web & mobile applications",
-        "AI-powered real-world products",
-        "Clean, maintainable, production-grade code"
-    };
+<br/>
 
-    public String currentStatus() {
-        return "Open to Full-Time Opportunities & Freelance Projects 🚀";
-    }
-}
-```
+<table width="100%">
+<tr>
+<td align="center" width="20%">
 
-I'm a **Software Engineer** with **8+ months of professional experience** building scalable backend systems and full stack applications. I specialize in **Java, Spring Boot, REST APIs, React.js, React Native, and Node.js**, and I love turning real-world problems into working software — not just tutorial-style projects.
+**💼**<br/>**8+ Months**<br/>Experience
 
-My work spans **enterprise business applications, AI-powered tools, and freelance client websites**, and I'm constantly leveling up my knowledge of distributed systems and cloud-native engineering.
+</td>
+<td align="center" width="20%">
+
+**🚀**<br/>**7+**<br/>Projects Shipped
+
+</td>
+<td align="center" width="20%">
+
+**🏢**<br/>**1**<br/>Company
+
+</td>
+<td align="center" width="20%">
+
+**💻**<br/>**3+**<br/>Freelance Clients
+
+</td>
+<td align="center" width="20%">
+
+**🎯**<br/>**Open**<br/>To Opportunities
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -214,20 +213,17 @@ My work spans **enterprise business applications, AI-powered tools, and freelanc
 
 ### 🏢 Software Developer
 **DVein Innovations Pvt. Ltd.** · Chennai, India
-`8+ Months`
+`Aug 2025 – Apr 2026`
 
 **Key Contributions:**
-- 🔹 Designed and developed **REST APIs** using **Spring Boot** for enterprise business applications
-- 🔹 Built backend modules using **Node.js** for auxiliary services
-- 🔹 Implemented **JWT-based Authentication & Authorization** across applications
-- 🔹 Worked on **HRM (Human Resource Management)** systems and internal business tools
-- 🔹 Handled **Cloud Deployment** on **AWS**, managing EC2 instances and S3 storage
-- 🔹 Set up **CI/CD pipelines** using **GitHub Actions** for automated builds and deployments
-- 🔹 Collaborated closely with **React frontend teams** to integrate APIs end-to-end
-- 🔹 Directly engaged in **client requirement gathering** sessions to translate business needs into technical specs
-- 🔹 Conducted **internal training sessions** on Spring Boot and REST API best practices
+- 🔹 Developed and maintained **REST APIs** using **Spring Boot** for HRM and business applications, improving API response time by **25%** through query optimization
+- 🔹 Built secure backend services using **Node.js, Express.js, Spring Security**, and **JWT Authentication**
+- 🔹 Developed **HRM modules** including onboarding, payroll, leave management, and workflow automation — reducing manual HR effort by **35%**
+- 🔹 Deployed applications using **AWS EC2, S3, CloudFront**, and **GitHub Actions CI/CD**, improving application performance by **30%**
+- 🔹 Collaborated with **React.js developers**, wrote **JUnit test cases**, and participated in code reviews — reducing post-release defects by **20%**
+- 🔹 Conducted **Java & Spring Boot training sessions** and worked directly with clients to gather and implement business requirements
 
-**Tech Used:** `Java` `Spring Boot` `Node.js` `JWT` `React.js` `AWS` `GitHub Actions` `MySQL`
+**Tech Used:** `Java` `Spring Boot` `Node.js` `Express.js` `Spring Security` `JWT` `React.js` `AWS` `GitHub Actions` `MySQL`
 
 </td>
 </tr>
@@ -283,15 +279,14 @@ Modern responsive business website for a bakery brand.
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-**An AI-powered application that automates recruiter outreach and resume optimization.**
+**An AI-powered mobile application that automates recruiter email generation based on resume and job details.**
 
 **✨ Features:**
-- ✅ Automated Recruiter Email Generation using AI
-- ✅ Resume ATS (Applicant Tracking System) Analysis
-- ✅ Intelligent Resume Parsing
-- ✅ Skill Gap Analysis with AI-driven suggestions
-- ✅ Bulk Email Automation
-- ✅ Secure JWT-based Authentication
+- ✅ AI-generated recruiter emails tailored to resume & job details
+- ✅ Resume ATS Analysis using **PDFBox** — generates ATS score, skill gap analysis & improvement suggestions
+- ✅ Bulk Email Automation with **Resend SMTP**
+- ✅ Secure **JWT-based Authentication** on all APIs
+- ✅ **PostgreSQL** database integrated with **Railway** for cloud deployment
 
 **🛠️ Tech Stack:**
 
@@ -304,7 +299,8 @@ Modern responsive business website for a bakery brand.
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93)
+[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/jobai_frontend)
+[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/jobapi)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://jobapi-production-9bcc.up.railway.app)
 
 </td>
@@ -321,15 +317,15 @@ Modern responsive business website for a bakery brand.
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
-**A Full Stack Social Media Platform inspired by modern photo-sharing apps.**
+**A Full Stack Social Media Platform with 20+ REST APIs — inspired by modern photo-sharing apps.**
 
 **✨ Features:**
-- ✅ Secure Authentication with Spring Security
-- ✅ Create, Edit & Delete Posts
-- ✅ Likes & Comments System
+- ✅ 20+ REST APIs for authentication, posts, comments, likes & followers
+- ✅ Secure Authentication with **Spring Security** + **JWT**
+- ✅ Create, Edit & Delete Posts with Likes & Comments
 - ✅ Follow / Unfollow Users
-- ✅ Image Upload via Cloudinary
-- ✅ RESTful API Architecture
+- ✅ Image Upload via **Cloudinary**
+- ✅ Optimized database queries — improved performance by **30–40%**
 
 **🛠️ Tech Stack:**
 
@@ -342,8 +338,8 @@ Modern responsive business website for a bakery brand.
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_DEMO_URL)
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/winstagram-back)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://winstagr.netlify.app/register)
 
 </td>
 </tr>
@@ -411,41 +407,6 @@ Modern responsive business website for a bakery brand.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishorekannan93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorekannan93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishorekannan93&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishorekannan93&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kishorekannan93/Kishorekannan93/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> ℹ️ **Note:** The snake animation requires a one-time GitHub Actions workflow setup on your profile repository (`Kishorekannan93/Kishorekannan93`) using the `platane/snk` action to auto-generate this SVG daily.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
-
-## 🏆 Trophies & Streaks
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kishorekannan93&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
-
 ## 🧑‍💻 Coding Profiles
 
 <div align="center">
@@ -474,6 +435,25 @@ Modern responsive business website for a bakery brand.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
 
+## 🎓 Education
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### B.E. Electronics & Communication Engineering
+**SSM Institute of Engineering & Technology**, Dindigul · `2021 – 2025`
+
+<img src="https://img.shields.io/badge/CGPA-7.79-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Class_XII-85.13%25-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Class_X-83.40%25-22C55E?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -481,8 +461,9 @@ Modern responsive business website for a bakery brand.
 I'm actively looking for **Software Engineer / Java Full Stack Developer** roles and interesting **freelance projects**. If you'd like to collaborate, hire, or just talk tech — reach out!
 
 <a href="mailto:kishorekannan934@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kishore-kannan-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Kishorekannan93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="tel:+919245798766"><img src="https://img.shields.io/badge/Call-9245798766-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
