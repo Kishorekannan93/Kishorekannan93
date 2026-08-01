@@ -469,7 +469,7 @@ An AI-powered mobile application that automates recruiter email generation based
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/jobai_frontend)
 [![Backend Repo](https://img.shields.io/badge/Backend_Repo-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/jobapi)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://jobapi-production-9bcc.up.railway.app)
+
 
 </td>
 </tr>
