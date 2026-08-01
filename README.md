@@ -541,7 +541,7 @@ A Java-based CRUD application for managing course registrations.
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93)
+[![GitHub](https://img.shields.io/badge/View_Repository-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/tutorApp)
 
 </td>
 <td width="50%" valign="top">
@@ -565,7 +565,7 @@ A learning project replicating core features of X (Twitter).
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93)
+[![GitHub](https://img.shields.io/badge/View_Repository-171515?style=for-the-badge&logo=github)](https://github.com/Kishorekannan93/x-clone)
 
 </td>
 </tr>
