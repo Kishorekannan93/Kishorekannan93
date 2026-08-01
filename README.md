@@ -605,7 +605,8 @@ I treat learning as an ongoing part of the job, not something that stopped at gr
 🧮 Data Structures & Algorithms Regular DSA practice covering arrays, strings, hashing, and recursion — building the problem-solving muscle that shows up in interviews and in gnarly production bugs alike.
 
 </td> </tr> </table> <br/> <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/> <br/>
-## Education
+
+###Education
 
 ### B.E. Electronics & Communication Engineering
 **SSM Institute of Engineering & Technology**, Dindigul &nbsp;|&nbsp; `2021 – 2025`
