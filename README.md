@@ -1,129 +1,171 @@
-## Hi there 👋 It's me Kishore Kannan
+ Hi there, I'm Kishore Kannan
 
-Software Engineer | Java Full Stack Developer
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🚀 Here's my [Portfolio](YOUR_PORTFOLIO_URL)
-- 💻 Java Full Stack Developer with 8+ months of professional experience
-- 🌱 Currently learning System Design, Microservices, Docker & AWS
-- 🔭 Passionate about building scalable Backend APIs and Full Stack Applications
-- 👨‍💻 Worked as **Software Developer @ DVein Innovations Pvt. Ltd.**
-- ❤️ Interested in Java, Spring Boot, React.js, React Native and AI-powered Applications
-- 🎯 Looking for Software Engineer | Backend Developer | Full Stack Developer opportunities
-- 📫 Reach me at **kishorekannan934@gmail.com**
-- ⚡ Fun fact: I enjoy building real-world applications more than tutorial projects.
-
-### 🌐 Social Presence
-
-<br/>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kishorekannan93">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:kishorekannan934@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
-</a>
-
----
-
-# 💻 I Code In
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,spring,hibernate,mysql,postgres,mongodb"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Backend+Developer;Freelancer+%7C+Building+Real-world+Applications" />
 </p>
 
----
+<img align="right" width="360" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-# ⚙ IDE & Tools I Use
+💫 About Me
 
-<p>
+💻 Software Engineer with professional Java Full Stack experience
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postman,aws"/>
+🏢 Former Software Developer @ DVein Innovations Pvt. Ltd.
 
+🌱 Learning System Design, Microservices, Docker & AWS
+
+❤️ Interested in Backend Engineering, AI and Freelancing
+
+🚀 Building scalable APIs using Spring Boot & Node.js
+
+📫 Email: kishorekannan934@gmail.com
+
+🎯 Open to Software Engineer, Backend Developer & Full Stack Developer roles
+
+🌐 Connect
+
+
+
+💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,git,github,docker,aws,vscode,idea,postman" />
 </p>
 
----
+🤖 AI & Automation
 
-# 🤖 AI & Automation
+Google Gemini API
 
-<p>
+Apache POI
 
-<img src="https://skillicons.dev/icons?i=github"/>
+PDFBox
 
-<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+Resend SMTP
 
-<img src="https://img.shields.io/badge/Apache_POI-E34F26?style=for-the-badge"/>
+GitHub Actions
 
-<img src="https://img.shields.io/badge/PDFBox-FF6B6B?style=for-the-badge"/>
+🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/Resend_SMTP-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💻 Workspace
-
-<img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
-
-<img height="30" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-
-
-# 🚀 Featured Projects
-
-### 🤖 AI Job Application Assistant
+🤖 AI Job Application Assistant
 
 React Native • Spring Boot • PostgreSQL • Gemini API
 
-AI-powered recruiter email automation with ATS Resume Analysis.
+ATS Resume Analysis
 
----
+AI Recruiter Email Generation
 
-### 📱 Winstagram
+Resume Parsing
 
-Java • Spring Boot • React.js • MySQL
+Authentication & Dashboard
 
-A Full Stack Social Media Platform with Authentication, Posts, Likes and Followers.
+🌸 Florist (Freelance Client)
 
----
+Modern bouquet shop website with elegant responsive UI.
 
-# 🤝 Connect With Me
+HTML • CSS • JavaScript
 
-<p>
+🍕 Spicy Hut (Freelance Client)
 
-<a href="mailto:kishorekannan934@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Restaurant website with responsive menu and booking UI.
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+HTML • CSS • JavaScript
 
-<a href="https://github.com/Kishorekannan93">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+🎂 Cakes & Bakes (Freelance Client)
 
-</p>
+Bakery landing page template created for freelance clients.
 
----
+HTML • CSS • JavaScript
+
+📚 TutorApp – Course Registration REST API
+
+Java 17 • Spring Boot • Spring Data JPA • MySQL • H2
+
+Features
+
+Student Registration
+
+Course Enrollment
+
+Update Enrollment
+
+Delete Enrollment
+
+REST APIs
+
+H2 & MySQL Support
+
+🐦 X Clone
+
+Node.js • Express.js
+
+Learning project implementing backend fundamentals.
+
+📱 Winstagram
+
+Java • Spring Boot • React • MySQL
+
+Social Media Platform with:
+
+Authentication
+
+Posts
+
+Likes
+
+Followers
+
+Comments
+
+📊 GitHub Analytics
+
+
+
+
+
+
+
+
+
+🏆 Highlights
+
+💼 Professional Software Development Experience
+
+🚀 Multiple Full Stack Projects
+
+🤝 Freelance Client Projects
+
+🔥 REST API Development
+
+📱 React & React Native
+
+☁️ Learning Cloud & DevOps
+
+🤖 AI Powered Applications
+
+📌 Repository Recommendations
+
+Pin these repositories:
+
+AI Job Application Assistant
+
+Winstagram
+
+Florist
+
+Spicy Hut
+
+Cakes & Bakes
+
+TutorApp
+
+X Clone
+
+AI_Phase1
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Kishorekannan93&style=for-the-badge"/>
+
 
 </div>
