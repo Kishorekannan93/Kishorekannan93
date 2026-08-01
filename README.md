@@ -606,7 +606,7 @@ I treat learning as an ongoing part of the job, not something that stopped at gr
 
 </td> </tr> </table> <br/> <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/> <br/>
 
-###Education
+### Education
 
 ### B.E. Electronics & Communication Engineering
 **SSM Institute of Engineering & Technology**, Dindigul &nbsp;|&nbsp; `2021 – 2025`
