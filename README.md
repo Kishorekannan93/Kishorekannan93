@@ -132,56 +132,31 @@ To Opportunities
 
 ## What I Bring to a Team
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<table width="100%"> <tr> <td width="50%" valign="top">
 
-** Backend-first thinking**
-I design APIs and data models before I write UI — clean contracts between frontend and backend save rework later.
+🧱 Backend-first thinking I design APIs and data models before I write UI — clean contracts between frontend and backend save rework later.
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-** Measurable impact**
-Every project I've shipped has a number attached — 25% faster APIs, 35% less manual effort, 30–40% better query performance.
+📊 Measurable impact Every project I've shipped has a number attached — 25% faster APIs, 35% less manual effort, 30–40% better query performance.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
 
-** Client-facing communication**
-I've gathered requirements directly from clients — both at DVein and on freelance projects — and translated vague asks into shipped features.
+🤝 Client-facing communication I've gathered requirements directly from clients — both at DVein and on freelance projects — and translated vague asks into shipped features.
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-**🧪 Quality mindset**
-I write JUnit tests and participate in code reviews as standard practice, not an afterthought — it's reduced post-release defects by 20% in production work.
+🧪 Quality mindset I write JUnit tests and participate in code reviews as standard practice, not an afterthought — it's reduced post-release defects by 20% in production work.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
 
-** End-to-end ownership**
-From database schema to AWS deployment to CI/CD — I've taken projects from idea to a live, working URL on my own.
+🚀 End-to-end ownership From database schema to AWS deployment to CI/CD — I've taken projects from idea to a live, working URL on my own.
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-** Fast learner**
-Picked up React Native, AWS deployment, and AI API integration on the job within my first 8 months — comfortable learning new tools under real deadlines.
+📚 Fast learner Picked up React Native, AWS deployment, and AI API integration on the job within my first 8 months — comfortable learning new tools under real deadlines.
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
-
-<br/>
+</td> </tr> </table> <br/> <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/> <br/>
 
 ## My Development Workflow
 
@@ -611,44 +586,25 @@ A learning project replicating core features of X (Twitter).
 <br/>
 
 ## Continuous Learning
-
 I treat learning as an ongoing part of the job, not something that stopped at graduation. Here's what I'm actively working on and how:
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<table width="100%"> <tr> <td width="50%" valign="top">
 
-** System Design & Microservices**
-Studying how to break monolithic Spring Boot apps into independently deployable services, and when *not* to — understanding trade-offs around latency, data consistency, and operational overhead.
+🏗️ System Design & Microservices Studying how to break monolithic Spring Boot apps into independently deployable services, and when not to — understanding trade-offs around latency, data consistency, and operational overhead.
 
-** Docker & Containerization**
-Practicing containerizing my Spring Boot + React projects so they run identically in dev and production, instead of relying on "works on my machine."
+🐳 Docker & Containerization Practicing containerizing my Spring Boot + React projects so they run identically in dev and production, instead of relying on "works on my machine."
 
-** AWS Beyond EC2/S3**
-Going deeper into IAM, VPC basics, and RDS — moving from "can deploy an app" to "can reason about a secure, cost-aware AWS setup."
+☁️ AWS Beyond EC2/S3 Going deeper into IAM, VPC basics, and RDS — moving from "can deploy an app" to "can reason about a secure, cost-aware AWS setup."
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-** Redis Caching**
-Learning where caching actually helps — session storage, rate limiting, and reducing repeated DB hits on read-heavy endpoints.
+⚡ Redis Caching Learning where caching actually helps — session storage, rate limiting, and reducing repeated DB hits on read-heavy endpoints.
 
-** CI/CD Maturity**
-Extending GitHub Actions pipelines beyond build-and-deploy to include automated test runs and environment-specific configs.
+🔄 CI/CD Maturity Extending GitHub Actions pipelines beyond build-and-deploy to include automated test runs and environment-specific configs.
 
-** Data Structures & Algorithms**
-Regular DSA practice covering arrays, strings, hashing, and recursion — building the problem-solving muscle that shows up in interviews and in gnarly production bugs alike.
+🧮 Data Structures & Algorithms Regular DSA practice covering arrays, strings, hashing, and recursion — building the problem-solving muscle that shows up in interviews and in gnarly production bugs alike.
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
-
-<br/>
-
+</td> </tr> </table> <br/> <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/> <br/>
 ## Education
 
 ### B.E. Electronics & Communication Engineering
